@@ -1,0 +1,9 @@
+[
+  {"question": "Как оформить пропуск в офис?", "expected_source": "public/onboarding.md", "expected_user": "sidorov", "should_refuse": false},
+  {"question": "Какие суточные в командировке по России?", "expected_source": "finance/finance_policy.md", "expected_user": "petrova", "should_refuse": false},
+  {"question": "Какие суточные в командировке по России?", "expected_source": null, "expected_user": "sidorov", "should_refuse": true},
+  {"question": "Сколько дней отпуска по умолчанию?", "expected_source": "hr/hr_policy.md", "expected_user": "kuznetsov", "should_refuse": false},
+  {"question": "Как сбросить пароль от VPN?", "expected_source": "it/it_guide.md", "expected_user": "ivanov", "should_refuse": false},
+  {"question": "Какая погода в Москве завтра?", "expected_source": null, "expected_user": "sidorov", "should_refuse": true},
+  {"question": "Какой лимит на проживание в Москве?", "expected_source": null, "expected_user": "kuznetsov", "should_refuse": true}
+]

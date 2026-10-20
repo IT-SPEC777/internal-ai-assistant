@@ -1,0 +1,8 @@
+{
+  "users": [
+    {"id": "ivanov",    "name": "Иван Иванов",     "groups": ["all", "it"]},
+    {"id": "petrova",   "name": "Мария Петрова",   "groups": ["all", "finance"]},
+    {"id": "sidorov",   "name": "Пётр Сидоров",    "groups": ["all"]},
+    {"id": "kuznetsov", "name": "Олег Кузнецов",   "groups": ["all", "hr"]}
+  ]
+}
